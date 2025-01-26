@@ -1,0 +1,1 @@
+// Day 26: i18n setup would go here
